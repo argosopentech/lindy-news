@@ -14,3 +14,4 @@
 ### Links
 - [Inspiration](https://twitter.com/paulg/status/1425147126032519172)
 - [Data](https://www.kaggle.com/therohk/million-headlines)
+- [Development video](https://youtu.be/XQGDCGPACSU)
